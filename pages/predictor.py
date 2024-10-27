@@ -6,7 +6,7 @@ import requests
 
 # Replace with your endpoint and prediction key
 ENDPOINT = "https://neurotechcare-prediction.cognitiveservices.azure.com/"
-PREDICTION_KEY = "11wYUNE6Da9fYKztUCXvYTTxUiuwts1ld4W49EmkYeR12fMjFv27JQQJ99AJACGhslBXJ3w3AAAIACOGZes4"
+PREDICTION_KEY = "Fn0mKZKoTAezu2aVj3tzdbc92pzO79NEJ5SnX9Uh8d3pfPDLiZ5OJQQJ99AJACGhslBXJ3w3AAAJACOGcc25"
 
 # print(ENDPOINT)
 # print(PREDICTION_KEY) checking whether key is working or not
