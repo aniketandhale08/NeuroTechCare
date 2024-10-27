@@ -5,8 +5,8 @@ from msrest.authentication import ApiKeyCredentials
 import requests
 
 # Replace with your endpoint and prediction key
-ENDPOINT = "https://machine-learning.cognitiveservices.azure.com/"
-PREDICTION_KEY = "0c0378cf52bb49308c7b298a23da29f6"
+ENDPOINT = "https://neurotechcare-prediction.cognitiveservices.azure.com/"
+PREDICTION_KEY = "11wYUNE6Da9fYKztUCXvYTTxUiuwts1ld4W49EmkYeR12fMjFv27JQQJ99AJACGhslBXJ3w3AAAIACOGZes4"
 
 # print(ENDPOINT)
 # print(PREDICTION_KEY) checking whether key is working or not
